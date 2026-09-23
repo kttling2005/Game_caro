@@ -8,18 +8,18 @@
 
 Người chơi có thể:
 
-* 🔐 Đăng nhập vào hệ thống
-* 🏠 Tạo phòng chơi
-* 🚪 Tham gia phòng bằng mã phòng
-* 🔎 Tìm đối thủ
-* 🎮 Chơi Caro trên bàn cờ 15×15
-* ⏱️ Theo dõi thời gian lượt chơi
-* 😀 Sử dụng emoji trong trận đấu
-* 🏆 Xác định người thắng/thua sau khi kết thúc ván
+*  Đăng nhập vào hệ thống
+*  Tạo phòng chơi
+*  Tham gia phòng bằng mã phòng
+*  Tìm đối thủ
+*  Chơi Caro trên bàn cờ 15×15
+*  Theo dõi thời gian lượt chơi
+*  Sử dụng emoji trong trận đấu
+*  Xác định người thắng/thua sau khi kết thúc ván
 
 ---
 
-## ✨ Chức năng chính
+##  Chức năng chính
 
 ### 1. Login
 
@@ -106,7 +106,7 @@ Caro_game/
 
 ---
 
-# 🚀 Hướng dẫn cài đặt
+#  Hướng dẫn cài đặt
 
 ## 1. Yêu cầu môi trường
 
@@ -197,7 +197,7 @@ Nếu xuất hiện trang Apache Tomcat thì server đã hoạt động.
 
 ---
 
-## 🛑 Dừng Tomcat
+##  Dừng Tomcat
 
 Để dừng server:
 
@@ -207,7 +207,7 @@ Nếu xuất hiện trang Apache Tomcat thì server đã hoạt động.
 
 ---
 
-# 📦 Deploy project lên Tomcat
+#  Deploy project lên Tomcat
 
 Có 2 cách phổ biến để chạy project.
 
@@ -249,7 +249,7 @@ http://localhost:8080/Caro_game
 
 ---
 
-# 📦 Cách 2: Deploy file WAR
+#  Cách 2: Deploy file WAR
 
 Build project bằng Maven:
 
@@ -298,7 +298,7 @@ http://localhost:8080/Caro_game
 
 ---
 
-# 🗄️ Cấu hình Database
+#  Cấu hình Database
 
 Nếu project sử dụng MySQL, trước tiên tạo database:
 
@@ -324,7 +324,7 @@ Password: your_password
 
 ---
 
-# 🎮 Hướng dẫn chơi
+#  Hướng dẫn chơi
 
 ### Bước 1
 
@@ -382,7 +382,7 @@ Hai người chơi lần lượt thực hiện nước đi.
 
 ---
 
-# ⏱️ Luật chơi
+#  Luật chơi
 
 * Bàn cờ gồm **15 × 15 ô**.
 * Hai người chơi lần lượt đánh quân.
@@ -393,7 +393,7 @@ Hai người chơi lần lượt thực hiện nước đi.
 
 ---
 
-# 🔧 Một số lỗi thường gặp
+#  Một số lỗi thường gặp
 
 ## Tomcat không khởi động
 
@@ -470,14 +470,14 @@ http://localhost:8080/Caro_game
 
 ---
 
-# 👥 Thành viên nhóm
+#  Thành viên nhóm
 
 | Thành viên | Phần phụ trách |
 |---|---|
 | Dang Ngoc | Login / Register |
 | Vu Thi Dao | Create Room / Join Room |
 | Cam Ly | Find Match |
-| Thuy Linh | Gameplay |
+| Thuy Linh | Gameplay / Ranking |
 ---
 
 # 📄 License
