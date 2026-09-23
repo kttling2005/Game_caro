@@ -1,3 +1,13 @@
+
+#  Thành viên nhóm
+
+| Thành viên | Phần phụ trách |
+|---|---|
+| Dang Ngoc | Login / Register |
+| Vu Thi Dao | Create Room / Join Room |
+| Cam Ly | Find Match |
+| Thuy Linh | Gameplay / Ranking |
+
 # 🎮 Caro Game
 
 Ứng dụng game **Cờ Caro 2 người chơi** được xây dựng theo mô hình Client–Server, cho phép người chơi tạo phòng, tham gia phòng và thi đấu Caro trực tuyến.
@@ -468,16 +478,6 @@ thường sẽ được truy cập bằng:
 http://localhost:8080/Caro_game
 ```
 
----
-
-#  Thành viên nhóm
-
-| Thành viên | Phần phụ trách |
-|---|---|
-| Dang Ngoc | Login / Register |
-| Vu Thi Dao | Create Room / Join Room |
-| Cam Ly | Find Match |
-| Thuy Linh | Gameplay / Ranking |
 ---
 
 # 📄 License
