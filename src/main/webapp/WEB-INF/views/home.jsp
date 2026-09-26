@@ -33,9 +33,9 @@
                 Option
             </button>
 
-            <button class="menu-item" onclick="openAbout()">
-                About
-            </button>
+            <button class="menu-item" onclick="openRanking()">
+                Ranking
+            </button>   
 
             <button class="menu-item" onclick="exitGame()">
                 Exit
