@@ -8,8 +8,8 @@ function openOption() {
 }
 
 
-function openAbout() {
-    window.location.href = "about";
+function openRanking() {
+    window.location.href = "ranking";
 }
 
 
